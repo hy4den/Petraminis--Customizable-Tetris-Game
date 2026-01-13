@@ -87,13 +87,6 @@ Projeyi terminal üzerinden hemen çalıştırmak için şu adımları izleyin:
 2.  `src` klasörünün "Sources Root" olarak işaretlendiğinden emin olun.
 3.  `src/main/Main.java` dosyasına sağ tıklayın ve **"Run"** seçeneğini seçin.
 
----
-
-## 📸 Ekran Görüntüleri
-
-*(Oyun içi görseller buraya eklenebilir. Örneğin: `res/screenshot1.png`)*
-
----
 
 <p align="center">
   <i>Keyifli Oyunlar Dileriz!</i><br>
